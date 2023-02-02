@@ -6,7 +6,7 @@
 stack
 
 <a href="[링크걸_주소](https://develope-dream.notion.site/Python-4019fec72dd54715be2d8371ef75823b)"><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white&link=[내링크](https://develope-dream.notion.site/Flutter-6d774e31f42b4fdaa33d2d2d92b70231)"/></a> 
-<a href="[링크걸_주소](https://develope-dream.notion.site/Flutter-6d774e31f42b4fdaa33d2d2d92b70231)"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&link=[내링크](https://develope-dream.notion.site/Flutter-6d774e31f42b4fdaa33d2d2d92b70231)"/></a>
+<a href="https://develope-dream.notion.site/Flutter-6d774e31f42b4fdaa33d2d2d92b70231"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&link=https://develope-dream.notion.site/Flutter-6d774e31f42b4fdaa33d2d2d92b70231"/></a>
 
 
 
