@@ -3,6 +3,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoulTree-Lovers&count_bg=%23ACCBEE&title_bg=%23555555&icon=hey.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
+stack
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
+
+
 ### 우리 지렁이는 배가 고파요 .. ㅠㅠ
 
 ![snake gif](https://github.com/SoulTree-Lovers/SoulTree-Lovers/blob/output/github-contribution-grid-snake.svg)
