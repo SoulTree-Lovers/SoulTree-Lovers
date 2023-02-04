@@ -20,7 +20,7 @@
 </a>
 
 	
-<h2> 우리 지렁이는 배가 고파요 .. ! </h2>
+## 우리 지렁이는 배가 고파요 .. ! 
 
 ![snake gif](https://github.com/SoulTree-Lovers/SoulTree-Lovers/blob/output/github-contribution-grid-snake.svg)
 
