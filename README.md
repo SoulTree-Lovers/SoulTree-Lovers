@@ -1,6 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=SoulTree-Lovers&textBg=true&fontSize=40&&fontColor=fff1eb&animation=twinkling&desc=SeungMin&fontAlign=30&descAlign=70&descSize=30&rotate=-2)
 
+
+## 우리 지렁이는 배가 고파요 .. ! 
+
+![snake gif](https://github.com/SoulTree-Lovers/SoulTree-Lovers/blob/output/github-contribution-grid-snake.svg)
 <h2>방문해주셔서 감사합니다 :)</h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoulTree-Lovers&count_bg=%23ACCBEE&title_bg=%23555555&icon=hey.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -20,9 +24,6 @@
 </a>
 
 	
-## 우리 지렁이는 배가 고파요 .. ! 
-
-![snake gif](https://github.com/SoulTree-Lovers/SoulTree-Lovers/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
