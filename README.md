@@ -75,7 +75,6 @@
 <a href="https://develope-dream.notion.site/b257288bd60e4eff9d342d6172027d66?v=5ce30bcf375a4b5aa579c642a004039a"  target="_blank">
 	<img src="https://images.unsplash.com/photo-1544716278-e513176f20b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2148&q=80" alt="노션 보러가기" width="300" height="220">
 </a>
-<i>click me !!</i>
 </p>
 
 </div>
