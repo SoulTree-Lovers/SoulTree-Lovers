@@ -11,7 +11,6 @@
 <br>
 <br>
 
-
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoulTree-Lovers&count_bg=%23ACCBEE&title_bg=%23555555&icon=hey.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -89,6 +88,14 @@
 ![snake gif](https://github.com/SoulTree-Lovers/SoulTree-Lovers/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<br>
+<hr/>
+<br>
+
+![SoulTree-Lovers's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoulTree-Lovers&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soultreelovers)](https://solved.ac/soultreelovers)	
+	
 <!--
 **SoulTree-Lovers/SoulTree-Lovers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
