@@ -42,13 +42,13 @@
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
 
-<h3> 📑 Manage 📑 </h3>
+<h3> 📑 Management 📑 </h3>
 <a href="https://develope-dream.notion.site/Git-d064db781d3d4be7883131c8e7baaeba"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&link=https://develope-dream.notion.site/Git-d064db781d3d4be7883131c8e7baaeba"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
 
-<h3> 🛠️ Tools 🛠️ </h3>
+<h3> 🛠️ Dev Tools 🛠️ </h3>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=Visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"/>
 	
