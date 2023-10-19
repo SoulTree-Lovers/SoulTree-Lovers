@@ -33,6 +33,8 @@
 <a href="https://develope-dream.notion.site/Python-4019fec72dd54715be2d8371ef75823b"><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white&link=https://develope-dream.notion.site/Flutter-6d774e31f42b4fdaa33d2d2d92b70231"/></a> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-FD9725?style=for-the-badge&logo=java&logoColor=FF982A"/>
+
 <br>
 <a href="https://develope-dream.notion.site/Dart-db3ce35d7a09494c8f75d6353a69d7df"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white&link=https://develope-dream.notion.site/Dart-db3ce35d7a09494c8f75d6353a69d7df"/></a>
 <a href="https://develope-dream.notion.site/Flutter-6d774e31f42b4fdaa33d2d2d92b70231"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&link=https://develope-dream.notion.site/Flutter-6d774e31f42b4fdaa33d2d2d92b70231"/></a>
