@@ -93,11 +93,13 @@
 <br>
 
 <div align=center>
-<h3> 🪱 지렁이 살 찌우기 🪱 </h3>
+<!-- <h3> 🪱 지렁이 살 찌우기 🪱 </h3>
 
  
 ![snake gif](https://github.com/SoulTree-Lovers/SoulTree-Lovers/blob/output/github-contribution-grid-snake.svg)
-
+ -->
+<h3> 📈 그래프 📈 </h3>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoulTree-Lovers&theme=github-compact)](https://github.com/SoulTree-Lovers/github-readme-activity-graph)
 
 </div>
 
